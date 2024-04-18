@@ -13,3 +13,5 @@ Validating a knowledge graph is crucial to ensure its accuracy and reliability. 
 Results
 
 The accuracy of the extracted triplets is computed, and the results indicate an improvement in the knowledge graph generation strategy. IMDb emerges as an efficient validator for our approach.
+Sample Graph:
+![graph](https://github.com/tanish105/Conversational-Recommedation-System-Using-Knowledge-Graph/assets/76030589/724194dd-4dec-49e2-93cb-01c3948d1b93)
